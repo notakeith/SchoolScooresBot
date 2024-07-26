@@ -56,5 +56,6 @@ MongoDB
 Проект писался с начала 2023 до сентября 2023. На данный момент я осознаю и вижу много костылей и вещей, которые сейчас бы написал иначе...  
 
 ## Скриншоты из бота
-
-<img src="https://github.com/notakeith/schoolscooresbot/blob/main/Screenshot1.png" width="330"/> <img src="https://github.com/notakeith/schoolscooresbot/blob/main/Screenshot2.png" width="330"/> <img src="https://github.com/notakeith/schoolscooresbot/blob/main/Screenshot3.png" width="330"/>
+<div align="center">
+  <img src="/example.webp?raw=true"/>
+</div>
