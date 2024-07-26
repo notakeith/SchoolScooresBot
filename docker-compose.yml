@@ -1,0 +1,11 @@
+version: '1.0'
+
+services:
+  schoolscores:
+    image: schoolscores
+    restart: always
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+
+
