@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="#"><img src="/preview.jpg?raw=true"/></a>
+</div>
+
 ![No Maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Telegram](https://img.shields.io/badge/aiogram-2CA5E0?logo=telegram&logoColor=white)
